@@ -1,5 +1,6 @@
 
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import Image from 'next/image';
 
 export default function Home(){
 
@@ -24,7 +25,7 @@ export default function Home(){
 
       </div>
       <div className='p-3 bg-gray-100 rounded-full self-end'>
-      <img  src="https://res.cloudinary.com/thirus/image/upload/v1632854290/logos/icon-share_frvrfu.svg" alt="" />
+      <Image  src="https://res.cloudinary.com/thirus/image/upload/v1632854290/logos/icon-share_frvrfu.svg" alt="" width={12} height={12} />
        </div>
       </div>
       </div>
