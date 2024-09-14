@@ -25,7 +25,7 @@ export default function Home(){
 
       </div>
       <div className='p-3 bg-gray-100 rounded-full self-end'>
-      <Image  src="https://res.cloudinary.com/thirus/image/upload/v1632854290/logos/icon-share_frvrfu.svg" alt="" width={12} height={12} />
+      <Image  src="https://res.cloudinary.com/thirus/image/upload/v1632854290/logos/icon-share_frvrfu.svg" alt="Garden Image" width={12} height={12} />
        </div>
       </div>
       </div>
